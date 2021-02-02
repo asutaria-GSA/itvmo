@@ -45,31 +45,31 @@ Provides support for security compliance and supply chain risk management.</p>
    <div class="grid-container">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                  <center><img class="seal" src="/assets/images/agency-seals/NIH NITAAC.png" alt="NIH NITAAC"></center>
+                  <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/NIH NITAAC.png" alt="NIH NITAAC"></center>
                     <div class="seal-name">
                         NIH NITAAC
                     </div>
                 </div>
                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                <center><img class="seal" src="/assets/images/agency-seals/NASA SEWP.png" alt="NASA SEWP"></center>
+                <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/NASA SEWP.png" alt="NASA SEWP"></center>
                     <div class="seal-name">
                         NASA SEWP
                     </div>
                 </div>
                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                <center><img class="seal" src="/assets/images/agency-seals/executive-office-of-the-president.png" alt="Executive Office of the President seal"></center>
+                <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/executive-office-of-the-president.png" alt="Executive Office of the President seal"></center>
                     <div class="seal-name">
                         OMB
                     </div>
                 </div>
                  <div class="tablet:grid-col-2 container" style="padding:10px;">
-                 <center><img class="seal" src="/assets/images/agency-seals/general-services-administration.png" alt="General Services Administration seal"></center>
+                 <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/general-services-administration.png" alt="General Services Administration seal"></center>
                     <div class="seal-name">
                         GSA ITC
                     </div>
                 </div>
                  <div class="tablet:grid-col-2 container" style="padding:10px;">
-                 <center><img class="seal" src="/assets/images/agency-seals/department-of-defense.png" alt="Department of Defense seal"></center>
+                 <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/department-of-defense.png" alt="Department of Defense seal"></center>
                     <div class="seal-name">
                         DOD OITCM
                     </div>   
