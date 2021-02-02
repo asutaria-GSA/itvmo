@@ -1,35 +1,15 @@
 ---
-title: Document
+title: contact-itvmo
 layout: page
 sidenav: false
 ---
 
-# Contact Us
+<section class="grid-container padding-left-0 padding-right-1">
+<h1 class="margin-top-0">Contact Us</h1>
+<div class="grid-row">
+   <p>If you’re interested in connecting or learning more, please reach out to us at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
+   <p><strong>Join our Newsletter</strong><br/>
+   If you would like to receive email notifications and our newsletter, please subscribe to our mailing list <a href="">here</a>.</p>
+</div>
+</section>
 
-<ul>
-  <li><a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a></li>
-  <li>Are you an agency that wants to learn more?
-  <ul>
-        <li><strong>For Agencies [form]</strong>
-           <ul>
-              <li><strong>Department</strong></li>
-              <li><strong>Sub-agency</strong></li>
-           </ul>
-        </li>
-     </ul>
-  </li>
-  <li>Are you a commercial partner that wants to work with us?
-  <ul>
-        <li><strong>For Vendors [form]</strong>
-           <ul>
-              <li><strong>Vendor Name</strong></li>
-           </ul>
-        </li>
-     </ul>
-  </li> 
-  <li>Are you a member of the press?
-     <ul>
-        <li><a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a></li>
-     </ul>
-  </li>
-</ul>

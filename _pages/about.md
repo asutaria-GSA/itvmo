@@ -4,34 +4,76 @@ layout: page
 sidenav: false
 ---
 
-# About
+<section class="grid-container border-bottom border-gray-30 padding-left-0 padding-right-1">
+<h1 class="margin-top-0">About</h1>
+<div class="margin-bottom-2">In October 2020, the Office of Management and Budget (OMB) created the Information Technology Vendor Management Office (ITVMO) to help solve the challenges agencies face when they buy commodity IT and leverage existing IT contract vehicles. The lack of a unified, government-wide IT acquisitions approach means agencies experience different prices for the same products and services, redundant acquisition efforts, and different terms and conditions.</div>
 
-The Information Technology Vendor Management Office (ITVMO) advances the goals of Category Management (CM) to improve how the government buys common goods and services, including ensuring best pricing and eliminating duplicative contracts. In October 2020, the Office of Management and Budget (OMB), created the ITVMO in partnership with the General Services Administration (GSA), the National Aeronautics and Space Administration, the National Institutes of Health, and the Department of Defense to:
-<p><em style="color:#ff580a;"><center><strong>Provide agencies with meaningful acquisition intelligence to inform and support faster, smarter IT buying decisions.</strong></center></em></p>
+<div class="margin-bottom-2">The ITVMO  advances the goals of Category Management (CM) to improve how the government buys common goods and services, including ensuring best pricing and eliminating duplicative contracts. In October 2020, the Office of Management and Budget (OMB), created the ITVMO in partnership with the General Services Administration (GSA), the National Aeronautics and Space Administration, the National Institutes of Health, and the Department of Defense to:</div>
 
-<!--## Section heading (h2)-->
+<div  class="about-highlight margin-bottom-2">Provide agencies with meaningful acquisition intelligence to inform and support faster, smarter IT buying decisions.</div>
 
-The ITVMO serves as a trusted independent advisor and advocate to help agencies buy common IT goods and services in compliance with procurement laws.  As a one stop shop, the ITVMO will leverage governmentwide IT procurement data, conduct market research, and develop shared agency acquisition knowledge to support agencies in procurement decisions. 
+<div class="margin-bottom-2">The ITVMO serves as a trusted independent advisor and advocate to help agencies buy common IT goods and services in compliance with procurement laws. As a one stop shop, the ITVMO will leverage governmentwide IT procurement data, conduct market research, and develop shared agency acquisition knowledge to support agencies in procurement decisions.</div>
+</section>
 
-### How we can help you
+<section class="grid-container border-bottom border-gray-30 padding-left-1 padding-right-1">
+<div class="inner">
+    <h2>How we can help you</h2>
+</div>
+<div class="margin-bottom-2">The ITVMO helps agencies procure IT smarter and faster by providing acquisitions expertise, such as the following services:
 
-The ITVMO helps agencies procure IT smarter and faster by providing acquisitions expertise, such as the following services:
-<ul>
-   <li>Data Analytics: Provides insights into cost, spend, and contracting data to enable data-driven decision-making that supports and informs acquisition strategies.</li> 
-   <li>Subject Matter Expertise: Provides domain expertise on IT demand management, products, services, strategic sourcing, technology trends, and purchasing best practices.</li> 
-   <li>Vendor Relationship Management: Provides a governmentwide office to effectively engage and promote two-way communication across industry and agencies.</li>
-   <li>Best-in-Class Solutions Support: Provides integration and contracting support to reduce duplicate efforts, improve awareness, and objectively broker governmentwide use of Best-in-Class vehicles.</li>
-   <li>IT Security and Supply Chain Risk Management: Provides support for security compliance and supply chain risk management.</li>
-</ul>
-<p><strong>More more specifics about the purpose, value proposition, and governance of the ITVMO, see the <a href="">ITVMO Concept of Operations</a></strong></p>
+<p><strong>Data Analytics</strong> <br>
+Insights into cost, spend, and contracting data to enable data-driven decision-making that supports and informs acquisition strategies.</p>
 
-#### Our Partners
+<p><strong>Subject Matter Expertise</strong><br>
+Domain expertise on IT demand management, products, services, strategic sourcing, technology trends, and purchasing best practices.</p>
 
-<ul>
-   <li>OMB OFPP</li>
-   <li>OMB OFCIO</li>
-   <li>NASA SEWP</li>
-   <li>NIH NITAAC</li>
-   <li>GSA ITC</li>
-   <li>DOD OITCM</li>
-</ul>
+<p><strong>Vendor Relationship Management</strong><br>
+Provides a governmentwide office to effectively engage and promote two-way communication across industry and agencies.</p>
+
+<p><strong>Best-in-Class Solutions Support</strong><br>
+Integration and contracting support to reduce duplicate efforts, improve awareness, and objectively broker governmentwide use of Best-in-Class vehicles.</p>
+
+<p><strong>IT Security and Supply Chain Risk Management</strong><br>
+Provides support for security compliance and supply chain risk management.</p>
+
+<p>More more specifics about the purpose, value proposition, and governance of the ITVMO, see the <a href="">ITVMO Concept of Operations</a></p>
+</div>
+</section>
+
+<section class="grid-container padding-left-1 padding-right-1">
+  <h3>Our Partners</h3>
+   <div class="grid-container">
+            <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
+                <div class="tablet:grid-col-2 container" style="padding:10px;">
+                  <center><img class="seal" src="/assets/images/agency-seals/NIH NITAAC.png" alt="NIH NITAAC"></center>
+                    <div class="seal-name">
+                        NIH NITAAC
+                    </div>
+                </div>
+                <div class="tablet:grid-col-2 container" style="padding:10px;">
+                <center><img class="seal" src="/assets/images/agency-seals/NASA SEWP.png" alt="NASA SEWP"></center>
+                    <div class="seal-name">
+                        NASA SEWP
+                    </div>
+                </div>
+                <div class="tablet:grid-col-2 container" style="padding:10px;">
+                <center><img class="seal" src="/assets/images/agency-seals/executive-office-of-the-president.png" alt="Executive Office of the President seal"></center>
+                    <div class="seal-name">
+                        OMB
+                    </div>
+                </div>
+                 <div class="tablet:grid-col-2 container" style="padding:10px;">
+                 <center><img class="seal" src="/assets/images/agency-seals/general-services-administration.png" alt="General Services Administration seal"></center>
+                    <div class="seal-name">
+                        GSA ITC
+                    </div>
+                </div>
+                 <div class="tablet:grid-col-2 container" style="padding:10px;">
+                 <center><img class="seal" src="/assets/images/agency-seals/department-of-defense.png" alt="Department of Defense seal"></center>
+                    <div class="seal-name">
+                        DOD OITCM
+                    </div>   
+                </div>
+             </div> 
+   </div>	
+</section>

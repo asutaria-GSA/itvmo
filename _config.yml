@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /assets/images/logos/ITVMO_logo.png
+logo: /assets/images/logos/ITVMO_logo_colorsmall.png
 
 # Twitter handle. Only the handle, not the URL.
 twitter: GSA-ITVMO
@@ -81,16 +81,12 @@ primary_navigation:
     url: /about/
   - name: Resources
     url: /resources/
-  - name: Category Management
-    url: /content-management/
   - name: Contact Us
     url: /contact-us/
 
 secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+  - name: Contact Us
+    url: "mailto:itvmo@gsa.gov"
 
 # Search.gov configuration
 #
