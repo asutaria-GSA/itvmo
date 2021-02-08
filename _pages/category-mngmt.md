@@ -1,17 +1,18 @@
 ---
 title: category-management
 layout: page
+datafile: category-mngt
 sidenav: false
 ---
 
-<!-- looping for creating a table for populating the table
-<h1 style="margin-top:7px;margin-bottom:30px;">Category Management</h1>
+<h1 style="margin-top:7px;">Category Management</h1>
+<!--<div class="width-mobile">-->
 <table class="usa-table usa-table--stacked-header">
-  {% for row in site.data.category-mngmt %}
+  {% for row in site.data.category-mngt %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
-        <th style="background:#205491;color:#fff;padding:1.1rem;font-weight:bold;font-size:1rem;line-height:1.2rem;border-right: 1px solid #fff;border-left: 1px solid #fff;">{{ pair[0] }}</th>
+        <th data-label="" class="row-color">{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     {% endif %}
@@ -20,13 +21,13 @@ sidenav: false
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-</table>-->
-
+</table>
+<!--</div>-->
+<!--
 <section class="grid-container clearfix padding-left-0 padding-right-1">
     <h1 style="margin-top:7px;">Category Management</h1>
     <div class="grid-row">
         <p style="font-size:2rem;font-weight:bold;">Coming Soon!</p>
-    <!--
             <table class="usa-table usa-table--stacked-header">
                 <caption></caption>
                 <thead>
@@ -73,6 +74,6 @@ sidenav: false
                     <td data-label="Tag"></td>
                     </tr>
                 </tbody>
-            </table>-->
+            </table>
     </div>
-</section>
+</section>-->

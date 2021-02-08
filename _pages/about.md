@@ -36,40 +36,34 @@ Integration and contracting support to reduce duplicate efforts, improve awarene
 <p><strong>IT Security and Supply Chain Risk Management</strong><br>
 Provides support for security compliance and supply chain risk management.</p>
 
-<p>More more specifics about the purpose, value proposition, and governance of the ITVMO, see the <a href="">ITVMO Concept of Operations</a></p>
+<p>More more specifics about the purpose, value proposition, and governance of the ITVMO, see the <a href="{{site.baseurl}}/assets/files/ITVMO-Concept-of-Operations-FINAL-DRAFT-v1.1-(5).pdf">ITVMO Concept of Operations</a></p>
 </div>
 </section>
 
 <section class="grid-container padding-left-1 padding-right-1">
-  <h3>Our Partners</h3>
+  <h2>Our Partners</h2>
    <div class="grid-container">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-                <div class="tablet:grid-col-2 container" style="padding:10px;">
-                  <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/NIH NITAAC.png" alt="NIH NITAAC"></center>
+                 <div class="tablet:grid-col-2 container" style="padding:10px;">
+                 <center><a href="https://www.gsa.gov/technology/information-technology-category"><img class="seal" src="{{site.baseurl}}/assets/images/logos/general-services-administration.png" alt="General Services Administration seal"></a></center>
                     <div class="seal-name">
-                        NIH NITAAC
+                        GSA ITC
                     </div>
                 </div>
                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/NASA SEWP.png" alt="NASA SEWP"></center>
+                <center><a href="https://www.sewp.nasa.gov/"><img class="seal-nasa" src="{{site.baseurl}}/assets/images/logos/NASA SEWP.png" alt="NASA SEWP"></a></center>
                     <div class="seal-name">
                         NASA SEWP
                     </div>
                 </div>
                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/executive-office-of-the-president.png" alt="Executive Office of the President seal"></center>
+                  <center><a href="https://nitaac.nih.gov/"><img class="seal" src="{{site.baseurl}}/assets/images/logos/NIH NITAAC.png" alt="NIH NITAAC"></a></center>
                     <div class="seal-name">
-                        OMB
+                        NIH NITAAC
                     </div>
                 </div>
-                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                 <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/general-services-administration.png" alt="General Services Administration seal"></center>
-                    <div class="seal-name">
-                        GSA ITC
-                    </div>
-                </div>
-                 <div class="tablet:grid-col-2 container" style="padding:10px;">
-                 <center><img class="seal" src="{{site.baseurl}}/assets/images/logos/department-of-defense.png" alt="Department of Defense seal"></center>
+                <div class="tablet:grid-col-2 container" style="padding:10px;">
+                 <center><a href="https://disa.mil/"><img class="seal" src="{{site.baseurl}}/assets/images/logos/department-of-defense.png" alt="Department of Defense seal"></a></center>
                     <div class="seal-name">
                         DOD OITCM
                     </div>   

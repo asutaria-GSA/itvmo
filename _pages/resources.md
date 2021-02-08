@@ -6,7 +6,7 @@ sidenav: false
 
 <section class="grid-container clearfix padding-left-0 padding-right-1">
 <h1 class="margin-top-0">Resources</h1>
-<p>The ITVMO  has developed and collected helpful resources to make government IT  acquisitions smarter and faster. We will regularly update and add to the resources posted to this page</p>
+<p>The ITVMO  has developed and collected helpful resources to make government IT  acquisitions smarter and faster. We will regularly update and add to the resources posted to this page.</p>
 <div class="grid-row">
   <div class="tablet:grid-col-6 padding-1">
       <a href="{{site.baseurl}}/category-mngmt/" style="color:black;text-decoration: none; display: block;" class="height-full">
