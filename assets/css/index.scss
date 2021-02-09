@@ -37,19 +37,15 @@
 }
 
 /*-------------------------------------*/
-/*
-.desktop\:grid-col-9 {
-  flex: 0 1 auto;
-  width: 75%;
-}*/
 .usa-hero {
-  background-image: none!important;
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #fef0c8;
+  background-image: url(../assets/images/background.png);
+  background-position: center;
+  background-size: cover;
 } 
 .usa-hero__callout {
-  background-color: #1b2b85;
+  background-color: #2b3482 !important;
 }
 .usa-section {
   padding-bottom: 2rem;
@@ -175,17 +171,18 @@ address p {
     color: #1b1b1b;
     margin: 1.25rem 0;
   }
-  .width-mobile .usa-table--stacked-header thead {
+  .usa-table--stacked-header thead {
     display: none;
-    width: 20rem;
+    width: 33%;
+    display: block !important;
   }
-  .usa-prose>.width-mobile .usa-table--stacked-header tr .usa-table--stacked-header tr {
+  .width-mobile .usa-table--stacked-header tr .usa-table--stacked-header tr {
     border-bottom-width: .25rem;
     border-bottom-color: #1b1b1b;
     border-bottom-style: solid;
     border-top-width: 0;
     display: block;
-    width: 100%;
+    width: 33%;
   }
   .width-mobile .usa-table--stacked-header tr:first-child th:first-child {
     border-top-width: .25rem;
@@ -200,7 +197,7 @@ address p {
     font-weight: 700;
     padding: .75rem 1rem;
   }
-  .usa-prose>.width-mobile .usa-table--stacked-header th, .width-mobile .usa-table--stacked-header td, .width-mobile .usa-table--stacked-header th {
+  .width-mobile .usa-table--stacked-header th, .width-mobile .usa-table--stacked-header td, .width-mobile .usa-table--stacked-header th {
   border-bottom-width: 0;
   display: block;
   width: 100%;

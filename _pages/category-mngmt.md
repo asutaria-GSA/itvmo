@@ -16,13 +16,18 @@ sidenav: false
       {% endfor %}
     </tr>
     {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
+     {% if forloop.last  %}
+       {% continue %}
+     {% endif %}
+       {% tablerow pair in row %}
+    
+            {{ pair[1] }}
+      
+        {% endtablerow %}
+     
   {% endfor %}
 </table>
-<!--</div>-->
+
 <!--
 <section class="grid-container clearfix padding-left-0 padding-right-1">
     <h1 style="margin-top:7px;">Category Management</h1>
