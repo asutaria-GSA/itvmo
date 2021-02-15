@@ -6,8 +6,8 @@ sidenav: false
 ---
 
 <h1 style="margin-top:7px;">Industry Intelligence</h1>
-<!--<div class="width-mobile">-->
-<table class="usa-table usa-table--stacked-header">
+<div class="usa-table-container--scrollable">
+<table class="usa-table">
   {% for row in site.data.industry-intelligence %}
     {% if forloop.first %}
     <tr>
@@ -22,7 +22,7 @@ sidenav: false
     {% endtablerow %}
   {% endfor %}
 </table>
-<!--</div>-->
+</div>
 <!--
 <section class="grid-container clearfix padding-left-0 padding-right-1">
 <h1 style="margin-top:7px;">Industry Intelligence</h1>

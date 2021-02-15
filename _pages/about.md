@@ -1,11 +1,11 @@
 ---
-title: about
+title: About ITVMO
 layout: page
 sidenav: false
 ---
 
 <section class="grid-container border-bottom border-gray-30 padding-left-0 padding-right-1">
-<h1 class="margin-top-0">About</h1>
+<h1 class="margin-top-0">{{ page.title }}</h1>
 <div class="margin-bottom-2">In October 2020, the Office of Management and Budget (OMB) created the Information Technology Vendor Management Office (ITVMO) to help solve the challenges agencies face when they buy commodity IT and leverage existing IT contract vehicles. The lack of a unified, government-wide IT acquisitions approach means agencies experience different prices for the same products and services, redundant acquisition efforts, and different terms and conditions.</div>
 
 <div class="margin-bottom-2">The ITVMO  advances the goals of Category Management (CM) to improve how the government buys common goods and services, including ensuring best pricing and eliminating duplicative contracts. In October 2020, the Office of Management and Budget (OMB), created the ITVMO in partnership with the General Services Administration (GSA), the National Aeronautics and Space Administration, the National Institutes of Health, and the Department of Defense to:</div>
@@ -36,7 +36,7 @@ Integration and contracting support to reduce duplicate efforts, improve awarene
 <p><strong>IT Security and Supply Chain Risk Management</strong><br>
 Provides support for security compliance and supply chain risk management.</p>
 
-<p>More more specifics about the purpose, value proposition, and governance of the ITVMO, see the <a href="{{site.baseurl}}/assets/files/ITVMO-Concept-of-Operations-FINAL-DRAFT-v1.1-(5).pdf">ITVMO Concept of Operations</a></p>
+<p>More specifics about the purpose, value proposition, and governance of the ITVMO, see the <a href="{{site.baseurl}}/assets/files/ITVMO-Concept-of-Operations-FINAL-DRAFT-v1.1-(5).pdf">ITVMO Concept of Operations</a></p>
 </div>
 </section>
 
