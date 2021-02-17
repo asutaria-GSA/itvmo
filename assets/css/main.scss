@@ -31,7 +31,7 @@
 }
 */
 .search-btn {
-  background-color: #bd5727;
+  background-color: #1b2b85;
 }
 .title {
   padding-top: 0;
@@ -48,12 +48,12 @@ legend, label, h1, h2, h3, h4, h5, h6 {
   font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
 }
 .highlight-bkgd {
-  margin-bottom: 89px;
+  margin-bottom: 5.5rem;
   /*box-shadow: 0 1rem 2rem 0 rgba(0,0,0,0.1);*/
-  margin-bottom: 50px;
+  margin-bottom: 3.1rem;
   background: #f6f6f6;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 .icon-size {
   width: 80px;
@@ -94,11 +94,11 @@ address p {
   text-align: center;
 }
 .resources-title {
-  font-size: 18px;
+  font-size: 1.1rem;
   font-weight: bold;
 }
 .resources-text {
-  font-size: 14px;
+  font-size: 0.8rem;
 }
 .resources-hover:hover{
   -webkit-box-shadow: 1px -1px 11px 4px rgba(0,0,0,0.47);
@@ -111,10 +111,10 @@ address p {
 .row-color {
   background: #1b2b85 !important;
   color:#fff;
-  padding:1.1rem;
-  font-weight:bold;
-  font-size:1rem;
-  line-height:1.2rem;
+  padding: 1.1rem;
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 1.2rem;
   border-right: 1px solid #fff !important;
   border-left: 1px solid #fff !important;
 }

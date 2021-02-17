@@ -62,12 +62,12 @@ sidenav: false
     </div>
     </div>
     <div class="grid-row padding-1 padding-top-3">
-      <a href="{{site.baseurl}}/assets/files/ITVMO-Concept-of-Operations-FINAL-DRAFT-v1.1-(5).pdf" class="usa-button usa-button--outline">ITVMO Concept of Operations (pdf)</a>
+      <a href="{{site.baseurl}}/assets/files/ITVMO-Concept-of-Operations-FINAL-DRAFT-v1.1-(5).pdf" class="usa-button">ITVMO Concept of Operations (pdf)</a>
     </div>
     <div class="grid-row padding-1">
-      <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs_20201217-(2).pdf" class="usa-button usa-button--outline">ITVMO FAQs (pdf)</a>
+      <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs_20201217-(2).pdf" class="usa-button">ITVMO FAQs (pdf)</a>
     </div>
     <p><strong>Don’t see what you’re looking for?</strong> <br/>
-    The ITVMO is constantly updated their Resources but if you can’t find what you’re looking for or would like to work with us on future Resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
+    The ITVMO is constantly updates their Resources but if you can’t find what you’re looking for or would like to work with us on future Resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
 </section>
 
