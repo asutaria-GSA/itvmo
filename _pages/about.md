@@ -1,5 +1,5 @@
 ---
-title: About ITVMO
+title: About
 layout: page
 sidenav: false
 ---
@@ -17,7 +17,7 @@ sidenav: false
 
 <section class="grid-container border-bottom border-gray-30 padding-left-1 padding-right-1">
 <div class="inner">
-    <h2>How we can help you</h2>
+    <h2>Services we support</h2>
 </div>
 <div class="margin-bottom-2">The ITVMO helps agencies procure IT smarter and faster by providing acquisitions expertise, such as the following services:
 

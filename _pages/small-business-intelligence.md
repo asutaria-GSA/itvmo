@@ -1,5 +1,5 @@
 ---
-title: small business intelligence
+title: Small Business Intelligence
 layout: page
 datafile: small-biz-inteligence
 sidenav: false

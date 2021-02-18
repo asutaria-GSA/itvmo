@@ -1,5 +1,5 @@
 ---
-title: category-management
+title: Category Management
 layout: page
 datafile: category-mngt
 sidenav: false

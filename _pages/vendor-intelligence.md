@@ -1,5 +1,5 @@
 ---
-title: vendor intelligence
+title: Vendor Intelligence
 layout: page
 datafile: vendor-intelligence
 sidenav: false

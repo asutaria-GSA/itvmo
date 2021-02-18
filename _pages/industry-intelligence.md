@@ -1,5 +1,5 @@
 ---
-title: industry intelligence
+title: Industry Intelligence
 layout: page
 datafile: industry-intelligence
 sidenav: false

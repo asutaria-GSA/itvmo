@@ -1,5 +1,5 @@
 ---
-title: working with bics
+title: Working with BICs
 layout: page
 datafile: working-with-bics
 sidenav: false

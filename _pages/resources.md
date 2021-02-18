@@ -1,5 +1,5 @@
 ---
-title: Resources about ITVMO
+title: Resources
 layout: page
 sidenav: false
 ---
@@ -67,7 +67,7 @@ sidenav: false
     <div class="grid-row padding-1">
       <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs_20201217-(2).pdf" class="usa-button">ITVMO FAQs (pdf)</a>
     </div>
-    <p><strong>Don’t see what you’re looking for?</strong> <br/>
+    <p><strong>Don’t see what you’re looking for?</strong><br/>
     The ITVMO constantly updates their Resources but if you can’t find what you’re looking for or would like to work with us on future Resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
 </section>
 

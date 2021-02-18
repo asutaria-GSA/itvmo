@@ -1,5 +1,5 @@
 ---
-title: emerging technology
+title: Emerging Technology
 layout: page
 datafile: emerging-technology
 sidenav: false
@@ -8,6 +8,7 @@ sidenav: false
 <h1 style="margin-top:7px;">Emerging Technology</h1>
 <div class="usa-table-container--scrollable">
 <table class="usa-table">
+<caption></caption>
   {% for row in site.data.emerging-technology %}
     {% if forloop.first %}
     <tr>
@@ -16,10 +17,12 @@ sidenav: false
       {% endfor %}
     </tr>
     {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
+       {% tablerow pair in row %}
+    
+            {{ pair[1] }}
+      
+        {% endtablerow %}
+     
   {% endfor %}
 </table>
 </div>
