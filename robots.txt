@@ -1,1 +1,7 @@
-This is a test.
+User-agent: usasearch
+Crawl-delay: 2
+
+User-agent: *
+Crawl-delay: 10
+
+Sitemap: https://www.itvmo.gsa.gov/sitemap.xml
