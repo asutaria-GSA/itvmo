@@ -53,9 +53,9 @@ sidenav: false
       </a>
     </div>
     <div class="tablet:grid-col-6 padding-1">
-      <a href="{{site.baseurl}}/industry-intelligence/" style="color:black;text-decoration: none; display: block;" class="height-full">
+      <a href="{{site.baseurl}}/vendors/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
-              <h2 class="usa-prose resources-title">Industry Intelligence</h2>
+              <h2 class="usa-prose resources-title">For Vendors</h2>
               <p class="resources-text">Learn more about how we work with vendors and industry to improve the IT acquisition experience</p>
         </div>
       </a>
@@ -68,6 +68,6 @@ sidenav: false
       <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs_20201217-(2).pdf" class="usa-button">ITVMO FAQs (pdf)</a>
     </div>
     <p><strong>Don’t see what you’re looking for?</strong><br/>
-    The ITVMO constantly updates their Resources but if you can’t find what you’re looking for or would like to work with us on future Resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
+    The ITVMO constantly updates resources but if you can’t find what you’re looking for or would like to work with us on future resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
 </section>
 
