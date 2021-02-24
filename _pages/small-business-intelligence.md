@@ -8,8 +8,10 @@ sidenav: false
 <section class="grid-container clearfix padding-left-0 padding-right-1">
 <h1 class="margin-top-0">Small Business Intelligence</h1>
     <div class="grid-row">
+    <p style="font-size:1.5rem;font-weight:bold;margin-left:auto;margin-right:auto;">Coming Soon.</p>
+    <!--
       <p style="margin-bottom:-5px;">The ITVMO maintains resources to help your agency identify and buy IT products and services from small and disadvantaged businesses. Please reach out to the ITVMO inbox at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a> with any questions or suggestions for additional resources.
-      </p>
+      </p>-->
     </div>
 <!--
 <div class="usa-table-container--scrollable">
