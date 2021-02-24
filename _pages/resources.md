@@ -65,7 +65,7 @@ sidenav: false
       <a href="{{site.baseurl}}/assets/files/ITVMO-Concept-of-Operations-FINAL-DRAFT-v1.1-(5).pdf" class="usa-button">ITVMO Concept of Operations (pdf)</a>
     </div>
     <div class="grid-row padding-1">
-      <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs_20201217-(2).pdf" class="usa-button">ITVMO FAQs (pdf)</a>
+      <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs-20201217-(2).pdf" class="usa-button">ITVMO FAQs (pdf)</a>
     </div>
     <p><strong>Don’t see what you’re looking for?</strong><br/>
     The ITVMO constantly updates resources but if you can’t find what you’re looking for or would like to work with us on future resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
