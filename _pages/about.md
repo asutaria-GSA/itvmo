@@ -46,7 +46,7 @@ Provides support for security compliance and supply chain risk management.</p>
    <div class="grid-container">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                  <div class="tablet:grid-col-2 container" style="padding:10px;">
-                 <center><a href="https://www.gsa.gov/technology/information-technology-category"><img class="seal" src="{{site.baseurl}}/assets/images/logos/general-services-administration.png" alt="General Services Administration seal"></a></center>
+                 <center><a href="https://www.gsa.gov/technology/information-technology-category"><img class="seal" src="{{site.baseurl}}/assets/images/logos/gsa-logo.jpg" alt="General Services Administration seal"></a></center>
                     <div class="seal-name">
                         GSA ITC
                     </div>
