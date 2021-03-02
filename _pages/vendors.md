@@ -9,7 +9,7 @@ sidenav: false
 <h1 class="margin-top-0">For Vendors</h1>
     <div class="grid-row">
           <p style="margin-bottom:-5px;">If you are a vendor and would like to work with the ITVMO to make IT product and service acquisitions easier for federal agencies, please reach out to the ITVMO inbox at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a> and provide the following information:
-          <ul style="margin-bottom:-4px;">
+          <ul class="usa-graphic-list">
              <li>Vendor name</li>
              <li>Contact information</li>
              <li>Industry or service area</li>
@@ -20,18 +20,22 @@ sidenav: false
 <!--
 <div class="usa-table-container--scrollable">
 <table class="usa-table">
-  {% for row in site.data.vendors %}
-    {% if forloop.first %}
+  <caption></caption>
+  {% assign rows = site.data.vendors %}
+  <th class="row-color">Title</th>
+  <th class="row-color">Type</th>
+  <th class="row-color">Problem Statement</th>
+  <th class="row-color">Description</th>
+  <th class="row-color">Last Updated</th>
+    {% for row in rows %}
     <tr>
-      {% for pair in row %}
-        <th class="row-color">{{ pair[0] }}</th>
-      {% endfor %}
+      <td><a href="{{  row.Link }}">{{  row.Title }}</a></td>
+      <td>{{  row.Type }}</td>
+      <td>{{  row.Problem_Statement }}</td>
+      <td>{{  row.Description }}</td>
+      <td>{{  row.Last_Updated }}</td>
     </tr>
-    {% endif %}
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
+    {% endfor %}
+  </table>
 </div>-->
 </section>

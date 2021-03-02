@@ -4,50 +4,58 @@
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 
 #Emerging Technology
-- Title: <a href="../assets/files/Zero-Trust-Architecture-(ZTA)-Technology-Trend-Topic.pdf">Zero Trust Architecture</a>
+- Link: '../assets/files/Zero-Trust-Architecture-(ZTA)-Technology-Trend-Topic.pdf'
+  Title: Zero Trust Architecture
   Type: PDF
-  Problem Statement: What is zero-trust and how can it help my agency?
+  Problem_Statement: What is zero-trust and how can it help my agency?
   Description: This document gives a brief overview of Zero Trust Architecture and lists a number of ITC vehicles in which it can be acquired
-  Last Updated: 9/23/2020
+  Last_Updated: 9/23/2020
 
-- Title: <a href="../assets/files/Shared-Services-Overview-Technology-Trend-Topic.pdf">Shared Services Overview</a>
+- Link: '../assets/files/Shared-Services-Overview-Technology-Trend-Topic.pdf'
+  Title: Shared Services Overview
   Type: PDF
-  Problem Statement: What is the easiest way to buy shared services for my agency's back-office business operations?
+  Problem_Statement: What is the easiest way to buy shared services for my agency's back-office business operations?
   Description: This document gives a brief overview of Shared Services and lists a number of ITC vehicles in which it can be acquired
-  Last Updated: 1/21/2021
+  Last_Updated: 1/21/2021
 
-- Title: <a href="../assets/files/Robotic-Process-Automation-(RPA)-Technology-Trend-Topic.pdf">Robotic Process Automation</a>
+- Link: '../assets/files/Robotic-Process-Automation-(RPA)-Technology-Trend-Topic.pdf'
+  Title: Robotic Process Automation
   Type: PDF
-  Problem Statement: What is RPA and how can it help my agency?
+  Problem_Statement: What is RPA and how can it help my agency?
   Description: This document gives a brief overview of Robotic Process Automation and lists a number of ITC vehicles in which it can be acquired
-  Last Updated: 11/20/2020
+  Last_Updated: 11/20/2020
 
-- Title: <a href="../assets/files/Natural-Language-Processing-(NLP)-Technology-Trend-Topic.pdf">Natural Language Processing</a>
+- Link: '../assets/files/Natural-Language-Processing-(NLP)-Technology-Trend-Topic.pdf'
+  Title: Natural Language Processing
   Type: PDF
-  Problem Statement: What is NLP and how can it help my agency?
+  Problem_Statement: What is NLP and how can it help my agency?
   Description: This document gives a brief overview of Natural Language Processing and lists a number of ITC vehicles in which it can be acquired
-  Last Updated: 6/17/2020
+  Last_Updated: 6/17/2020
 
-- Title: <a href="../assets/files/Cloud-Computing-Tech-Trend.pdf">Cloud Computing</a>
+- Link: '../assets/files/Cloud-Computing-Tech-Trend.pdf'
+  Title: Cloud Computing
   Type: PDF
-  Problem Statement: What is Zero Trust Architectury (ZTA) and how can it help my agency?
+  Problem_Statement: What is Zero Trust Architectury (ZTA) and how can it help my agency?
   Description: This document gives a brief overview of Cloud Computing and lists a number of ITC vehicles in which it can be acquired
-  Last Updated: 7/22/2020
+  Last_Updated: 7/22/2020
 
-- Title: <a href="../assets/files/As-a-Service-Comparison-Tech-Trend-Topic.pdf">As a Service Comparison</a>
+- Link: '../assets/files/As-a-Service-Comparison-Tech-Trend-Topic.pdf'
+  Title: As a Service Comparison
   Type: PDF
-  Problem Statement: What are the different as-a-service models and how can they help my agency?
+  Problem_Statement: What are the different as-a-service models and how can they help my agency?
   Description: This document gives a brief overview of as-a-service models, compares several options, and lists a number of ITC vehicles in which they can be acquired
-  Last Updated: 8/19/2020     
+  Last_Updated: 8/19/2020     
 
-- Title: <a href="../assets/files/Artificial-Intelligence-(AI)-Technology-Trend-Topic.pdf">Artificial Intelligence</a>
+- Link: '../assets/files/Artificial-Intelligence-(AI)-Technology-Trend-Topic.pdf'
+  Title: Artificial Intelligence
   Type: PDF
-  Problem Statement: What is AI and how can it help my agency?
+  Problem_Statement: What is AI and how can it help my agency?
   Description: This document gives a brief overview of Artificial Intelligence and lists a number of ITC vehicles in which it can be acquired
-  Last Updated: 10/31/2019 
+  Last_Updated: 10/31/2019 
 
-- Title: <a href="../assets/files/5Gand-IoT-Technology-Trend-Topic.pdf">5G and IoT</a>
+- Link: '../assets/files/5Gand-IoT-Technology-Trend-Topic.pdf'
+  Title: 5G and IoT
   Type: PDF
-  Problem Statement: What are 5G and IoT and how can they help my agerncy?
+  Problem_Statement: What are 5G and IoT and how can they help my agerncy?
   Description: This document gives a brief overview of 5G, its impact on the Internet of Things, and lists a number of ITC vehicles in which 5G tech can be acquired
-  Last Updated: 11/22/2019 
+  Last_Updated: 11/22/2019 

@@ -4,38 +4,44 @@
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 
 #Working with BICS
-- Title: <a href="../assets/files/ESCT-Software-Managers-Meeting-Gov-wide-Software-Agreements-Update-FINAL.pdf">Government-wide Software Agreements Update</a>
+- Link: '../assets/files/ESCT-Software-Managers-Meeting-Gov-wide-Software-Agreements-Update-FINAL.pdf'
+  Title: Government-wide Software Agreements Update
   Type: PDF
-  Problem Statement: What is the latest on GSA IT Schedule 70?
+  Problem_Statement: What is the latest on GSA IT Schedule 70?
   Description: This presentation covers the latest on GSA's IT Schedule 70 contract and current agreements.
-  Last Updated: 3/7/2018
+  Last_Updated: 3/7/2018
 
-- Title: <a href="../assets/files/NIH-NITAAC.pdf">NIH NITAAC Slip Sheet</a>
+- Link: '../assets/files/NIH-NITAAC.pdf'
+  Title: NIH NITAAC Slip Sheet
   Type: PDF
-  Problem Statement: How can I work with NIH NITAAC?
+  Problem_Statement: How can I work with NIH NITAAC?
   Description: This document gives an overview of the each of the NITAAC BIC solutions - CIO-SP3, CIO-SP3 Small Business, and CIO-CS
-  Last Updated: 2019
+  Last_Updated: 2019
 
-- Title: <a href="../assets/files/NASA-SEWP-V.pdf">NASA SEWP V Slip Sheet</a>
+- Link: '../assets/files/NASA-SEWP-V.pdf'
+  Title: NASA SEWP V Slip Sheet
   Type: PDF
-  Problem Statement: How can I work with NASA SEWP?
+  Problem_Statement: How can I work with NASA SEWP?
   Description: This document gives an overview of the NASA SEWP BIC and provides contract background for companies with currently existing contracts
-  Last Updated: 4/2/2018
+  Last_Updated: 4/2/2018
 
-- Title: <a href="../assets/files/GSA-ITC.pdf">GSA ITC Slip Sheet</a>
+- Link: '../assets/files/GSA-ITC.pdf'
+  Title: GSA ITC Slip Sheet
   Type: PDF
   Problem Statement: How can I work with GSA ITC?
   Description: This document gives a brief overview of the GSA ITC BICs such as MAS, EIS/Networx, COMSATCOM, 8(a) Stars II, Alliant 2, and VETS 2
   Last Updated: 9/1/2020
 
-- Title: <a href="../assets/files/ARMY-CHESS.pdf">ARMY CHESS Slip Sheet</a>
+- Link: '../assets/files/ARMY-CHESS.pdf'
+  Title: ARMY CHESS Slip Sheet
   Type: PDF
-  Problem Statement: How can I work with ARMY CHESS?
+  Problem_Statement: How can I work with ARMY CHESS?
   Description: This presentation gives an overview of the ARMY CHESS BIC solution
-  Last Updated: 5/13/2020
+  Last_Updated: 5/13/2020
 
-- Title: <a href="https://hallways.cap.gsa.gov/app/#/gateway/best-class-bic/22576/list-of-best-in-class-solutions">List of Best-in-Class Solutions by Category</a>
+- Link: 'https://hallways.cap.gsa.gov/app/#/gateway/best-class-bic/22576/list-of-best-in-class-solutions'
+  Title: List of Best-in-Class Solutions by Category
   Type: Hyperlink
-  Problem Statement: What BIC vehicles are available for my agency's acquisitions?
+  Problem_Statement: What BIC vehicles are available for my agency's acquisitions?
   Description: This document lists BIC solutions by Category and gives a brief description of Best-in-Class Solutions (BICs) and Spend Under Management (SUM)
-  Last Updated: 1/1/2021
+  Last_Updated: 1/1/2021

@@ -12,19 +12,22 @@ sidenav: false
     </div>
 <div class="usa-table-container--scrollable">
 <table class="usa-table">
-<caption></caption>
-  {% for row in site.data.category-mngt %}
-    {% if forloop.first %}
+  <caption></caption>
+  {% assign rows = site.data.category-mngt %}
+  <th class="row-color">Title</th>
+  <th class="row-color">Type</th>
+  <th class="row-color">Problem Statement</th>
+  <th class="row-color">Description</th>
+  <th class="row-color">Last Updated</th>
+    {% for row in rows %}
     <tr>
-      {% for pair in row %}
-        <th class="row-color">{{ pair[0] }}</th>
-      {% endfor %}
+      <td><a href="{{  row.Link }}">{{  row.Title }}</a></td>
+      <td>{{  row.Type }}</td>
+      <td>{{  row.Problem_Statement }}</td>
+      <td>{{  row.Description }}</td>
+      <td>{{  row.Last_Updated }}</td>
     </tr>
-    {% endif %}
-       {% tablerow pair in row %}
-            {{ pair[1] }} 
-        {% endtablerow %} 
-  {% endfor %}
-</table>
+    {% endfor %}
+  </table>
 </div>
 </section>

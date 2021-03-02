@@ -4,27 +4,32 @@
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 
 #Category Management
-- Title: <a href="../assets/files/DoD-ESI-WhitePaper-SW-Maintenance-Product-Service.pdf">Is COTS Software Maintenance a Supply or Service</a>
+
+- Link: '../assets/files/DoD-ESI-WhitePaper-SW-Maintenance-Product-Service.pdf'
+  Title: Is COTS Software Maintenance a Supply or Service
   Type: PDF
-  Problem Statement: How should agencies approach commercial software maintenance?
+  Problem_Statement: How should agencies approach commercial software maintenance?
   Description: Commercial-off-the-Shelf (COTS) software maintenance is a large part of the Federal Government’s information technology (IT) budget and buying practices vary across the DoD. This paper will address and clarify the various laws, regulations, concepts, and practices to help the reader make his or her own determination.
-  Last Updated: 1/1/2021
+  Last_Updated: 1/1/2021
 
-- Title: <a href="../assets/files/Software-Maintenance-Negotiations-Best-Practices.pdf">Software Maintenance Negotiations Best Practices</a>
+- Link: '../assets/files/Software-Maintenance-Negotiations-Best-Practices.pdf'
+  Title: Software Maintenance Negotiations Best Practices
   Type: PDF
-  Problem Statement: Maintenance a Supply or Service?
+  Problem_Statement: Maintenance a Supply or Service?
   Description: This White Paper contains a set of potential actions that can be taken to constrain or even reduce Software Maintenance spending, during initial license acquisition and throughout the life of the system. It is oriented to the Government, although best practices of the commercial sector are frequently referenced.
-  Last Updated: 1/1/2021
+  Last_Updated: 1/1/2021
 
-- Title: <a href="../assets/files/FY21-22-IT-Category-Strategic-Plan-PMO+OMB-Reviewed-Nov-30th.pdf">Government-wide IT Category Management Strategic Plan</a>
+- Link: '../assets/files/FY21-22-IT-Category-Strategic-Plan-PMO+OMB-Reviewed-Nov-30th.pdf'
+  Title: Government-wide IT Category Management Strategic Plan
   Type: PDF
-  Problem Statement: What are the plans for the government-wide IT Category in FY21 and FY22?
+  Problem_Statement: What are the plans for the government-wide IT Category in FY21 and FY22?
   Description: This presentation provides a look back at government-wide IT Category initiatives and progress in FY20 and goals and initiatives for the program in FY21 and FY22.
-  Last Updated: 12/1/2020
+  Last_Updated: 12/1/2020
 
-- Title: <a href="https://www.whitehouse.gov/wp-content/uploads/2019/03/M-19-13.pdf">M-19-13 - Making Smart Use of Common Contract Solutions and Practices</a>
+- Link: 'https://www.whitehouse.gov/wp-content/uploads/2019/03/M-19-13.pdf'
+  Title: M-19-13 - Making Smart Use of Common Contract Solutions and Practices
   Type: Hyperlink
-  Problem Statement: What is the OMB policy on Category Management?
+  Problem_Statement: What is the OMB policy on Category Management?
   Description: The purpose of this Memorandum is to provide guidance on the use of category management. As used in this document, the term "category management" refers to the business practice of buying common goods and services as an enterprise to eliminate redundancies, increase efficiency, and deliver more value and savings from the Government's acquisition programs.
-  Last Updated: 3/20/2019
+  Last_Updated: 3/20/2019
 
