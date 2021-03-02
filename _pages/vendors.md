@@ -14,7 +14,7 @@ sidenav: false
              <li>Contact information</li>
              <li>Industry or service area</li>
              <li>Ideas to improve government IT acquisitions</li>
-             <li>Any relevant resources you would like to share with agencies</li>
+             <li>Any relevant content you would like to share with agencies</li>
           </ul></p>
     </div>
 <!--
