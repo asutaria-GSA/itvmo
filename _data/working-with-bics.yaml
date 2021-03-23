@@ -11,14 +11,14 @@
   Description: This presentation covers the latest on GSA's IT Schedule 70 contract and current agreements.
   Last_Updated: 3/7/2018
 
-- Link: '../assets/files/NIH-NITAAC.pdf'
+- Link: 'https://nitaac.nih.gov/nitaac-glance'
   Title: NIH NITAAC Slip Sheet
   Type: PDF
   Problem_Statement: How can I work with NIH NITAAC?
   Description: This document gives an overview of the each of the NITAAC BIC solutions - CIO-SP3, CIO-SP3 Small Business, and CIO-CS
   Last_Updated: 1/1/2021
 
-- Link: '../assets/files/NASA-SEWP-V.pdf'
+- Link: 'https://www.sewp.nasa.gov/geninfo.shtml'
   Title: NASA SEWP V Slip Sheet
   Type: PDF
   Problem_Statement: How can I work with NASA SEWP?
@@ -32,7 +32,7 @@
   Description: This document gives a brief overview of the GSA ITC BICs such as MAS, EIS/Networx, COMSATCOM, 8(a) Stars II, Alliant 2, and VETS 2
   Last_Updated: 9/1/2020
 
-- Link: '../assets/files/ARMY-CHESS.pdf'
+- Link: 'https://www.eis.army.mil/programs/chess'
   Title: ARMY CHESS Slip Sheet
   Type: PDF
   Problem_Statement: How can I work with ARMY CHESS?
