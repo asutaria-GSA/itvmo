@@ -6,7 +6,7 @@ sidenav: false
 
 <section class="grid-container clearfix padding-left-0 padding-right-1">
 <h1 class="margin-top-0">Resources</h1>
-<p>The ITVMO  has developed and collected helpful resources to make government IT  acquisitions smarter and faster. We will regularly update and add to the resources posted to this page.</p>
+<p>We have developed and collected helpful resources to make government IT  acquisitions smarter and faster. We will regularly update and add to the resources posted to this page.</p>
 <div class="grid-row">
   <div class="tablet:grid-col-6 padding-1">
       <a href="{{site.baseurl}}/category-mngmt/" style="color:black;text-decoration: none; display: block;" class="height-full">
@@ -68,6 +68,6 @@ sidenav: false
       <a href="{{site.baseurl}}/assets/files/ITVMO-FAQs-20201217-(2).pdf" class="usa-button">ITVMO FAQs (pdf)</a>
     </div>
     <p><strong>Don’t see what you’re looking for?</strong><br/>
-    The ITVMO constantly updates resources but if you can’t find what you’re looking for or would like to work with us on future resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
+    We are constantly updating resources but if you can’t find what you’re looking for or would like to work with us on future resources, please reach out to us by email at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a>.</p>
 </section>
 
