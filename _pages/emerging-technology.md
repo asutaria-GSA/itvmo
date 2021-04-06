@@ -9,6 +9,7 @@ sidenav: false
 <h1 class="margin-top-0">Emerging Technology</h1>
     <div class="grid-row">
       <p>The ITVMO compiles information pertaining to emerging and innovative technologies and how to procure them. Please reach out to the ITVMO inbox at <a href="mailto:itvmo@gsa.gov">itvmo@gsa.gov</a> with any questions or suggestions for additional resources.</p>
+      <p style="font-size:1.5rem;font-weight:bold;">Coming Soon.</p>
     </div>
     <!--
     <div class="usa-table-container--scrollable">

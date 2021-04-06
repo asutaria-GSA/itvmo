@@ -10,9 +10,7 @@ sidenav: false
 
 <div class="margin-bottom-2">The ITVMO  advances the goals of Category Management (CM) to improve how the government buys common goods and services, including ensuring best pricing and eliminating duplicative contracts. The ITVMO is a partnership between the General Services Administration (GSA), the National Aeronautics and Space Administration (NASA), the National Institutes of Health (NIH), and the Department of Defense (DOD) to:</div>
 
-<div  class="about-highlight margin-bottom-2">Provide agencies with meaningful acquisition intelligence to inform and support faster, smarter IT buying decisions.</div>
-
-<div class="margin-bottom-2">The ITVMO serves as a trusted independent advisor and advocate to help agencies buy common IT goods and services in compliance with procurement laws. As a one stop shop, the ITVMO will leverage governmentwide IT procurement data, conduct market research, and develop shared agency acquisition knowledge to support agencies in procurement decisions.</div>
+<div class="margin-bottom-2">The ITVMO advances the goals of Category Management (CM) to improve how the government buys common goods and services, including ensuring best pricing and eliminating duplicative contracts. The ITVMO is a partnership between the General Services Administration (GSA), the National Aeronautics and Space Administration (NASA), the National Institutes of Health (NIH), and the Department of Defense (DOD) to provide agencies with meaningful acquisition intelligence to inform and support faster, smart IT buying decisions.</div>
 </section>
 
 <section class="grid-container border-bottom border-gray-30 padding-left-1 padding-right-1">
