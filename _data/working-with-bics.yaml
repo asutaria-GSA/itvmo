@@ -4,36 +4,29 @@
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 
 #Working with BICS
-- Link: '../assets/files/ESCT-Software-Managers-Meeting-Gov-wide-Software-Agreements-Update-FINAL.pdf'
-  Title: Government-wide Software Agreements Update
-  Type: PDF
-  Problem_Statement: What is the latest on GSA IT Schedule 70?
-  Description: This presentation covers the latest on GSA's IT Schedule 70 contract and current agreements.
-  Last_Updated: 3/7/2018
-
 - Link: 'https://nitaac.nih.gov/nitaac-glance'
-  Title: NIH NITAAC Slip Sheet
+  Title: NIH NITAAC Overview
   Type: Hyperlink
   Problem_Statement: How can I work with NIH NITAAC?
   Description: This document gives an overview of the each of the NITAAC BIC solutions - CIO-SP3, CIO-SP3 Small Business, and CIO-CS
   Last_Updated: 1/1/2021
 
 - Link: 'https://www.sewp.nasa.gov/geninfo.shtml'
-  Title: NASA SEWP V Slip Sheet
+  Title: NASA SEWP Overview
   Type: Hyperlink
   Problem_Statement: How can I work with NASA SEWP?
   Description: This document gives an overview of the NASA SEWP BIC and provides contract background for companies with currently existing contracts
   Last_Updated: 4/2/2018
 
 - Link: 'https://www.gsa.gov/technology/technology-programs'
-  Title: GSA ITC Slip Sheet
+  Title: GSA ITC Overview
   Type: Hyperlink
-  Problem Statement: How can I work with GSA ITC?
+  Problem_Statement: How can I work with GSA ITC?
   Description: This document gives a brief overview of the GSA ITC BICs such as MAS, EIS/Networx, COMSATCOM, 8(a) Stars II, Alliant 2, and VETS 2
   Last_Updated: 9/1/2020
 
 - Link: 'https://www.eis.army.mil/programs/chess'
-  Title: ARMY CHESS Slip Sheet
+  Title: ARMY CHESS Overview
   Type: Hyperlink
   Problem_Statement: How can I work with ARMY CHESS?
   Description: This presentation gives an overview of the ARMY CHESS BIC solution
