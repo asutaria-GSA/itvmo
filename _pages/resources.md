@@ -7,8 +7,8 @@ sidenav: false
 <section class="grid-container clearfix padding-left-0 padding-right-1">
 <h1 class="margin-top-0">Resources</h1>
 <p>We have developed and collected helpful resources to make government IT  acquisitions smarter and faster. We will regularly update and add to the resources posted to this page.</p>
-<div class="grid-row">
-  <div class="tablet:grid-col-6 padding-1">
+<div class="usa-card-group grid-row grid-gap">
+  <div class="tablet:grid-col-6 usa-card">
       <a href="{{site.baseurl}}/category-mngmt/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
               <h2 class="usa-prose resources-title">Category Management</h2>
@@ -16,7 +16,7 @@ sidenav: false
         </div>
       </a>
     </div>
-    <div class="tablet:grid-col-6 padding-1">
+    <div class="tablet:grid-col-6 usa-card">
       <a href="{{site.baseurl}}/vendor-intelligence/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
               <h2 class="usa-prose resources-title">Vendor Intelligence</h2>
@@ -25,8 +25,8 @@ sidenav: false
       </a>
     </div>
     </div>
-   <div class="grid-row">
-   <div class="tablet:grid-col-6 padding-1">
+   <div class="grid-row grid-gap">
+   <div class="tablet:grid-col-6 usa-card">
       <a href="{{site.baseurl}}/small-business-intelligence/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
               <h2 class="usa-prose resources-title">Small Business Intelligence</h2>
@@ -34,7 +34,7 @@ sidenav: false
         </div>
       </a>
     </div>
-  <div class="tablet:grid-col-6 padding-1">
+  <div class="tablet:grid-col-6 usa-card">
       <a href="{{site.baseurl}}/emerging-technology/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
               <h2 class="usa-prose resources-title">Emerging Technology</h2>
@@ -43,8 +43,8 @@ sidenav: false
       </a>
     </div>
     </div>
-    <div class="grid-row">
-    <div class="tablet:grid-col-6 padding-1">
+    <div class="grid-row grid-gap">
+    <div class="tablet:grid-col-6 usa-card">
       <a href="{{site.baseurl}}/working-with-bics/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
               <h2 class="usa-prose resources-title">Working with BICs</h2>
@@ -52,7 +52,7 @@ sidenav: false
         </div>
       </a>
     </div>
-    <div class="tablet:grid-col-6 padding-1">
+    <div class="tablet:grid-col-6 usa-card">
       <a href="{{site.baseurl}}/vendors/" style="color:black;text-decoration: none; display: block;" class="height-full">
         <div class="bg-white padding-3 border-top-05 border-accent-warm shadow-5 height-full resources-hover">
               <h2 class="usa-prose resources-title">For Vendors</h2>

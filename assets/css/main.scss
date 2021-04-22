@@ -61,6 +61,10 @@ legend, label, h1, h2, h3, h4, h5, h6 {
   /*box-shadow: 0 1rem 2rem 0 rgba(0,0,0,0.1);*/
   background: #f6f6f6;
   padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.height-full {
+  height: 100%;
 }
 .icon-size {
   width: 80px;
@@ -94,11 +98,12 @@ address p {
   text-align: center;
 }
 .resources-title {
+  font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.1rem;
   font-weight: bold;
 }
 .resources-text {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 .resources-hover:hover{
   -webkit-box-shadow: 1px -1px 11px 4px rgba(0,0,0,0.47);
